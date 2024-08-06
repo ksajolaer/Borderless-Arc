@@ -1,8 +1,8 @@
 # Guide for Borderless Arc Browser
-### Tested on latest version of macOS Ventura, Sonoma and Sequoia.
+### Tested on latest version of macOS Ventura, Sonoma, Sequoia and Arc.
 **Step 1.** Run the `killall Dock` command on repeat (*or else Dock will restart again*), I use `watch` for this.
 
-    watch -n0.5 killall Dock
+    watch -n0.1 killall Dock
 
 **Step 2.** Fullscreen Arc window. Arc should now stay windowed with fullscreen UI.
 
