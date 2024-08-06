@@ -13,3 +13,4 @@
 **Step 3.** Hide sidebar and enjoy your borderless Arc!
 
 ![image](https://raw.githubusercontent.com/ksajolaer/Borderless-Arc-Guide/main/Borderless%20Arc.png)
+### Thanks for reading!
