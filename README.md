@@ -1,4 +1,4 @@
-# Automated Borderless Arc app is now avalible for testing! However, if you still want to do it yourself, proceed with the guide below.
+# Automated Borderless Arc app is now available for testing! However, if you still want to do it yourself, proceed with the guide below.
 
 ### Guide for Borderless Arc Browser, tested on latest version of macOS Ventura, Sonoma, Sequoia and Arc.
 
