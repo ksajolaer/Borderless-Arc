@@ -1,8 +1,8 @@
-# Automated Borderless Arc app is now available for testing! However, if you still want to do it yourself, proceed with the guide below.
+# Automated Borderless Arc app for testing is now available at [here](https://github.com/ksajolaer/Borderless-Arc/releases/tag/testing)! However, if you still want to do it yourself, proceed with the guide below.
 
 ### Guide for Borderless Arc Browser, tested on latest version of macOS Ventura, Sonoma, Sequoia and Arc.
 
-*Here is the **[demo video](https://www.youtube.com/watch?v=3_hSZyi64VY)**.*
+*Here is the **[demo video](https://youtu.be/9Rslrgrj42g)**.*
 
 **Step 1.** Run the `killall Dock` command on repeat (*or else Dock will restart again*), I use `watch` for this.
 
