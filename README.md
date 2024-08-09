@@ -1,6 +1,10 @@
-# Automated Borderless Arc app for testing is now available at [here](https://github.com/ksajolaer/Borderless-Arc/releases/tag/testing)! However, if you still want to do it yourself, proceed with the guide below.
+## For developers: If you can make this a fully-functional app that always check for new windows and apply to every Arc windows, DM me @ntexplorer on Discord or share your repository on [GitHub](https://github.com) for others!
 
-### Guide for Borderless Arc Browser, tested on latest version of macOS Ventura, Sonoma, Sequoia and Arc.
+### If you find this project helpful consider giving it a star!
+
+### Automated Borderless Arc app for testing is now available at [here](https://github.com/ksajolaer/Borderless-Arc/releases/tag/testing)! However, if you still want to do it yourself, proceed with the guide below.
+
+### Tested on latest version of macOS Ventura, Sonoma, Sequoia and Arc.
 
 *Here is the **[demo video](https://youtu.be/9Rslrgrj42g)**.*
 
