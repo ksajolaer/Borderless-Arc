@@ -2,10 +2,12 @@
 
 ### Automated Borderless Arc app for testing is now available at [here](https://github.com/ksajolaer/Borderless-Arc/releases/tag/testing)! 
 
+### **In order to use the Borderless Arc app, remember to allow ***zsh*** to access Privacy and Security options as shown here**.
+| Accessibility | Automation |
+| ------------- | ---------- |
+| ![image](https://raw.githubusercontent.com/ksajolaer/Borderless-Arc/main/Accessibility.png) | ![image](https://raw.githubusercontent.com/ksajolaer/Borderless-Arc/main/Accessibility.png) |
+
 **[Demo video](https://youtu.be/9Rslrgrj42g)**
-
-**In order to use the Borderless Arc app, remember to allow zsh to access Privacy and Security (Accessibility and Automation) options as shown here**.
-
 
 **Step 1.** Run the `killall Dock` command on repeat (*or else Dock will restart again*), I use `watch` for this.
 
