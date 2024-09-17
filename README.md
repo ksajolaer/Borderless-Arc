@@ -1,12 +1,11 @@
-## For developers: If you can make this a fully-functional app that always check for new windows and apply to every Arc windows, DM me @ntexplorer on Discord or share your repository on [GitHub](https://github.com) for others!
+## If you find this project helpful consider giving it a star!
 
-### If you find this project helpful consider giving it a star!
+### Automated Borderless Arc app for testing is now available at [here](https://github.com/ksajolaer/Borderless-Arc/releases/tag/testing)! 
 
-### Automated Borderless Arc app for testing is now available at [here](https://github.com/ksajolaer/Borderless-Arc/releases/tag/testing)! However, if you still want to do it yourself, proceed with the guide below.
+**[Demo video](https://youtu.be/9Rslrgrj42g)**
 
-### Tested on latest version of macOS Ventura, Sonoma, Sequoia and Arc.
+**In order to use the Borderless Arc app, remember to allow zsh to access Privacy and Security (Accessibility and Automation) options as shown here**.
 
-*Here is the **[demo video](https://youtu.be/9Rslrgrj42g)**.*
 
 **Step 1.** Run the `killall Dock` command on repeat (*or else Dock will restart again*), I use `watch` for this.
 
